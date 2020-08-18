@@ -1,0 +1,11 @@
+
+addresses:
+    tab: Endereços
+    label: Endereço
+    view:
+        form: $/dmrch/userextension/models/address/fields.yaml
+        list: $/dmrch/userextension/models/address/columns.yaml
+        toolbarButtons: create|delete
+    manage:
+        form: $/dmrch/userextension/models/address/fields.yaml
+        recordsPerPage: 10

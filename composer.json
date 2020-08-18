@@ -1,0 +1,19 @@
+{
+    "name": "dmrch/userextension",
+    "type": "october-plugin",
+    "description": "User Extension Plugin",
+    "homepage": "https://github.com/angelodmrch/userextension",
+    "keywords": ["october", "octobercms", "user"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Angelo Demarchi",
+            "email": "angelodmrch@gmail.com"
+        },
+    ],
+    "require": {
+        "php": ">=7.0",
+        "composer/installers": "~1.0"
+    },
+    "minimum-stability": "dev"
+}

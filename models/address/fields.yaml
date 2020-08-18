@@ -1,0 +1,25 @@
+# ===================================
+#  Form Field Definitions
+# ===================================
+
+fields:
+    cep:
+        label: CEP
+
+    rua:
+        label: Rua   
+
+    numero:
+        label: Numero
+
+    bairro:
+        label: Bairro
+
+    cidade:
+        label: Cidade
+
+    uf:
+        label: UF
+
+    complemento:
+        label: Complemento

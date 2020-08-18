@@ -1,0 +1,31 @@
+# ===================================
+#  Form Behavior Config
+# ===================================
+
+# Record name
+name: Address
+
+# Model Form Field configuration
+form: $/dmrch/userextension/models/address/fields.yaml
+
+# Model Class name
+modelClass: Dmrch\UserExtension\Models\Address
+
+# Default redirect location
+defaultRedirect: dmrch/userextension/address
+
+# Create page
+create:
+    title: Create Address
+    redirect: dmrch/userextension/address/update/:id
+    redirectClose: dmrch/userextension/address
+
+# Update page
+update:
+    title: Edit Address
+    redirect: dmrch/userextension/address
+    redirectClose: dmrch/userextension/address
+
+# Preview page
+preview:
+    title: Preview Address

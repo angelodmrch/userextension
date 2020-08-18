@@ -1,0 +1,28 @@
+# ===================================
+#  List Column Definitions
+# ===================================
+
+columns:
+    id:
+        label: ID
+        searchable: true
+
+    rua:      
+        label: Rua
+        searchable: true
+
+    numero:      
+        label: N°
+        searchable: true
+
+    bairro:
+        label: Bairro
+        searchable: true
+    
+    cidade:
+        label: Cidade
+        searchable: true   
+
+    uf:
+        label: UF
+        searchable: true   

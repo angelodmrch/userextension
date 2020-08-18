@@ -1,0 +1,6 @@
+1.0.1:
+    - Initialize plugin.
+    - create_addresses_table.php
+1.0.2:
+    - Added new fields to User table.
+    - update_rainlab_user_table.php
