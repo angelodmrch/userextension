@@ -22,7 +22,7 @@ class Plugin extends PluginBase
         return [
             'name'        => 'User Extension',
             'description' => 'Extension for RainLab.User',
-            'author'      => 'Dmrch',
+            'author'      => 'Angelo Demarchi',
             'icon'        => 'icon-user'
         ];
     }
