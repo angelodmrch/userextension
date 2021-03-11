@@ -3,23 +3,23 @@
 # ===================================
 
 fields:
-    cep:
+    zip:
         label: CEP
 
-    rua:
+    street:
         label: Rua   
 
-    numero:
+    number:
         label: Numero
 
-    bairro:
+    district:
         label: Bairro
 
-    cidade:
+    city:
         label: Cidade
 
-    uf:
+    state:
         label: UF
 
-    complemento:
+    complement:
         label: Complemento
