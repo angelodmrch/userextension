@@ -7,22 +7,22 @@ columns:
         label: ID
         searchable: true
 
-    rua:      
+    street:      
         label: Rua
         searchable: true
 
-    numero:      
+    number:      
         label: N°
         searchable: true
 
-    bairro:
+    district:
         label: Bairro
         searchable: true
     
-    cidade:
+    city:
         label: Cidade
         searchable: true   
 
-    uf:
+    state:
         label: UF
         searchable: true   
